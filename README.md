@@ -1,2 +1,2 @@
 # Extremal-Multiplicity-Profiles-for-Integer-Horizontal-Chords
-We studied some properties of horizontal integer chords for continuous functions
+We studied some properties of horizontal integer chords for continuous functions. To be specific, if a prescribed chord of length $N$ exists, we discovered that there are at least $2N-1$ integer chords totally. We also completely classified the multiplicity vectors at equality, and proved they can all be realized by a polynomial with rational coefficients.
